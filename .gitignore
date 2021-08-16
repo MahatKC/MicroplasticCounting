@@ -1,3 +1,6 @@
+*.jpeg
+*.tiff
+unet/data/
 TestImages/
 
 # Byte-compiled / optimized / DLL files
