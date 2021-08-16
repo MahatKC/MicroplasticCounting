@@ -1,0 +1,10 @@
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+tensorboard
+future
+tqdm
+image-slicer
+python-docx
